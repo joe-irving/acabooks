@@ -10,28 +10,25 @@ fields:
 - type: text
   name: title
   label: title
-- type: file
-  name: image
-  label: image
-- name: author
-  type: text
-  config:
-    required: false
-  label: Author(s)
 - name: subtitle
   type: text
   config:
     required: false
   label: Sub Title
-- name: excerpt
-  type: textarea
-  default: ''
+- name: author
+  type: text
   config:
     required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Excerpt
+  label: Author(s)
+- type: file
+  name: image
+  label: image
+- name: image_back
+  type: file
+  config:
+    maxSize: 64
+  label: Back Image
+  description: The back cover of the book
 pages:
 - _books/bigger-than-bernie.md
 - _books/fully-automated-luxury-communism.md
