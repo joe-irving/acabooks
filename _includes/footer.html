@@ -1,0 +1,14 @@
+<div class="social">
+  {% if site.facebook %}
+  <a href="https://www.facebook.com/{{ site.facebook }}"><img class="icon" src="/logos/facebook.svg" title="Facebook" alt="Facebook page"></a>
+  {% endif %}
+  {% if site.instagram %}
+  <a href="https://instagram.com/{{ site.instagram }}"><img class="icon" src="/logos/instagram.svg" alt="Instagram page" title="Instagram"></a>
+  {% endif %}
+  {% if site.telegram %}
+  <a href="https://t.me/{{site.telegram}}"><img class="icon" src="/logos/telegram.svg" alt="Telegram broadcast" title="Telegram"></a>
+  {% endif %}
+  {% if site.email %}
+  <a href="mailto:{{ site.email }}"><img class="icon" src="/logos/email_icon.svg" alt="Send email to {{ site.email }}" title="Email"></a>
+  {% endif %}
+</div>

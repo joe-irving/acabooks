@@ -1,0 +1,12 @@
+title: ACABooks
+# email:
+# description:
+url: joe.irving.me.uk
+baseurl: 'acabooks'
+
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
