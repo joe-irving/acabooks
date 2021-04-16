@@ -72,7 +72,7 @@ section.book > div.text, section.book{
 }
 section.book {
   max-width: var(--book-width);
-  margin: 0 auto;
+  margin: 1vh auto;
   background: url("./uploads/default.jpeg") no-repeat center center;
   background-size: auto 100%;
 }

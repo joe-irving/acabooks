@@ -4,7 +4,9 @@
       <section class="book" style="background-image: url({{ book.image | relative_url }});">
           <div class="text">
             <h1>{{ book.title }}</h1>
-            <p>{{ book.excerpt }}</p>
+            <p><em>{{ book.author }}</em></p>
+            <p><strong>{{ book.subtitle }}</strong></p>
+
           </div>
       </section>
     </a>
