@@ -5,8 +5,9 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: document
-  path: _data/books.csv
+  path: _data/books.yml
   label: Books
+  read_only: false
 - type: jekyll-posts
   label: Posts
   create: all
