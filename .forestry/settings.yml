@@ -1,13 +1,12 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: admin
 webhook_url: 
 sections:
 - type: document
   path: _data/books.csv
   label: Books
-  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: all
