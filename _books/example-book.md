@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Example Book
-excerpt: Blah blah blah
+excerpt: >-
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+  euismod erat non purus rhoncus ultrices. Morbi efficitur enim lorem.
+  Phasellus pretium eleifend urna, in blandit augue porttitor
+  ullamcorper.
 image: "/uploads/default.jpeg"
 ---
 

@@ -7,6 +7,8 @@ image: /uploads/default.jpeg
 
 # [{{ post.title }}]({{ post.url | relative_url }})
 
+_{{ post.date | date:"%e %b %Y" }}_
+
 {{ post.excerpt }}
 
 {% endfor %}

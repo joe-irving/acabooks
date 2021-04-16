@@ -1,3 +1,16 @@
+@font-face{
+  font-family:GloriaHallelujah;
+  src:url("/fonts/GloriaHallelujah-Regular.ttf");
+}
+@font-face{
+  font-family:ArchitectsDaughter;
+  src:url("/fonts/ArchitectsDaughter-Regular.ttf");
+}
+@font-face{
+  font-family:PermanentMarker;
+  src:url("/fonts/PermanentMarker-Regular.ttf");
+}
+
 *{
   box-sizing: border-box;
   transition: 500ms;
@@ -11,7 +24,34 @@ article{
   width: 100%;
   margin: 0 auto;
 }
+p, li{
+  font-family: ArchitectsDaughter;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family: PermanentMarker;
+}
+h1{
+  font-size: min(56px,12vw);
+}
+h2{
+  font-size: min(35px,12vw);
+}
+h3{
+  font-size: min(30px,11vw);
+}
+h4{
+  font-size: min(28px,11vw);
+}
+h5{
+  font-size: min(23px,9vw);
+}
+h6{
+  font-size: min(20px,9vw);
+}
+p,li{
+  font-size: 20px;
 
+}
 img.icon{
   height: 36px;
   opacity: 0.5;
@@ -44,8 +84,12 @@ section.book > div.text{
   flex-wrap: wrap;
   flex-direction: column;
   justify-content: space-around;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.9);
 }
 section.book .text > *{
   text-align: center;
+}
+a.book{
+  text-decoration: none;
+  color: inherit;
 }
