@@ -3,6 +3,8 @@ title: ACABooks
 # description:
 url: joe.irving.me.uk
 baseurl: '/acabooks'
+repository: joe-irving/acabooks
+
 
 permalink: pretty
 
