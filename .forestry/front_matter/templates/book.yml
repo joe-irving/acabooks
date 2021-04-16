@@ -20,5 +20,10 @@ fields:
   config:
     required: false
   label: Author(s)
+- name: subtitle
+  type: text
+  config:
+    required: false
+  label: Sub Title
 pages:
 - _books/bigger-than-bernie.md
