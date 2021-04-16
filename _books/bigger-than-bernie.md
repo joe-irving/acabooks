@@ -13,6 +13,5 @@ excerpt: "“Bigger Than Bernie offers an important contribution to the urgent d
 image: ''
 author: ''
 subtitle: How We Go From The Sanders Campaign To Democratic Socialism
-published: false
 
 ---
