@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Bigger Than Bernie
 excerpt: "“Bigger Than Bernie offers an important contribution to the urgent debates
   about rebuilding the American Left. Leading members of the Democratic Socialists
