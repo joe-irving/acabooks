@@ -20,3 +20,5 @@ fields:
   config:
     required: false
   label: Author(s)
+pages:
+- _books/bigger-than-bernie.md
