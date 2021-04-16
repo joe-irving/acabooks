@@ -1,5 +1,7 @@
 ---
 layout: page
+title: Blog
+image: /uploads/default.jpeg
 ---
 {% for post in site.posts %}
 

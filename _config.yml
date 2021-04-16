@@ -1,13 +1,13 @@
 title: ACA Books
+tagline: York Radical Library
 # email:
-description: York Radial Library
+description: York Radical Library
 instagram: aca.books
 # twitter:
 # facebook:
 # telegram:
 
 url: joe.irving.me.uk
-baseurl: '/acabooks'
 repository: joe-irving/acabooks
 permalink: pretty
 
@@ -20,3 +20,5 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+locale: en_GB

@@ -3,8 +3,8 @@ layout: post
 title: Example Book
 excerpt: Blah blah blah
 image: "/uploads/default.jpeg"
-
 ---
+
 # Details
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse euismod erat non purus rhoncus ultrices. Morbi efficitur enim lorem. Phasellus pretium eleifend urna, in blandit augue porttitor ullamcorper. Maecenas nec convallis nunc, vel condimentum massa. Ut iaculis, augue quis facilisis mattis, nulla lectus aliquam nisi, luctus sagittis urna tortor eu sapien. Praesent venenatis tellus quis lectus facilisis, nec rhoncus velit aliquam. Nulla facilisi. Sed sed metus ut elit sodales semper. Vestibulum molestie diam eu fringilla pretium. Mauris vel elit id lectus porttitor dapibus a porta nisi. Nam sed consequat dui. Nunc vel bibendum nisl, ac sollicitudin diam.
