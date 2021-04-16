@@ -9,9 +9,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: excerpt
-  label: excerpt
 - type: file
   name: image
   label: image
@@ -25,6 +22,15 @@ fields:
   config:
     required: false
   label: Sub Title
+- name: excerpt
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Excerpt
 pages:
 - _books/bigger-than-bernie.md
 - _books/fully-automated-luxury-communism.md
