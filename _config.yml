@@ -1,18 +1,22 @@
-title: ACABooks
+title: ACA Books
 # email:
-# description:
+description: York Radial Library
+instagram: aca.books
+# twitter:
+# facebook:
+# telegram:
+
 url: joe.irving.me.uk
 baseurl: '/acabooks'
 repository: joe-irving/acabooks
-
-
 permalink: pretty
+
+collections:
+  books:
+    output: true
+    permalink: /:collection/:title
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-
-instagram: aca.books
-# twitter:
-# facebook:

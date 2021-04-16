@@ -6,6 +6,25 @@
   --article-width: 600px;
   --book-width: 450px;
 }
+article{
+  max-width: var(--article-width);
+  width: 100%;
+  margin: 0 auto;
+}
+
+img.icon{
+  height: 36px;
+  opacity: 0.5;
+  padding: 0 0.5cm;
+}
+img.icon:hover{
+  opacity: 1;
+}
+.title, .title > *{
+  text-align: center;
+}
+
+/* Book list  */
 section.book > div.text, section.book{
   min-height: var(--book-width);
   height: 100%;
