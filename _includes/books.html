@@ -1,9 +1,10 @@
 <section class="books">
   {% for book in site.data.books %}
-    <section class="book">
-      <h1>{{ book.title }}</h1>
-      <img src="{{ book.image }}" alt="Cover of {{ book.title }}">
-      <p>{{ book.description }}</p>
+    <section class="book" style="background-image: url({{ book.image | relative_url }});">
+      <div class="text">
+        <h1>{{ book.title }}</h1>
+        <p>{{ book.description }}</p>
+      </div>
     </section>
   {% endfor %}
 </section>

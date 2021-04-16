@@ -2,3 +2,4 @@ vendor
 .bundle
 .jekyll-cache
 Gemfile.lock
+_site

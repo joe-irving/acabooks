@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+  transition: 500ms;
+}
+:root{
+  --article-width: 600px;
+  --book-width: 450px;
+}
+section.book > div.text, section.book{
+  min-height: var(--book-width);
+  height: 100%;
+  width: 100%;
+}
+section.book {
+  max-width: var(--book-width);
+  margin: 0 auto;
+  background: url("./uploads/default.jpeg") no-repeat center center;
+  background-size: auto 100%;
+}
+section.book:hover{
+  box-shadow: 0 0 10px 0 #15202b;
+}
+section.book > div.text{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-around;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+section.book .text > *{
+  text-align: center;
+}
