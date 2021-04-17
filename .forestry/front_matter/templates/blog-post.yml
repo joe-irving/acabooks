@@ -18,3 +18,9 @@ fields:
   name: subtitle
   label: Subtitle
   description: If relevant
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
+  description: For social media previews. 1200x627px is best
