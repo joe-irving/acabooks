@@ -23,6 +23,8 @@ fields:
 - type: file
   name: image
   label: image
+  description: If the image is 1200x627 px then it will show up in most previews (e.g.
+    on sharing to facebook)
 - name: image_back
   type: file
   config:
