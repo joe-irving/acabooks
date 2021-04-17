@@ -5,7 +5,6 @@ subtitle: " How Europe Can Be Saved From Itself"
 author: Lorenzo Marsili and Miccolo Milanese
 image: "/uploads/citizens-of-no-where.jpeg"
 image_back: "/uploads/citizens-of-no-where2.jpeg"
-published: false
 
 ---
 "Europe might appear like a continent pulling itself apart. Ten years of economic and political crises have pitted North versus South, East versus West, citizens versus institutions. And yet, these years have also shown a hidden vitality of Europeans acting across borders, with civil society and social movements showing that alternatives to the status quo already exist.  
