@@ -5,7 +5,6 @@ subtitle: and How We Can Get There
 author: Rutger Bregman
 image: "/uploads/utopia-for-realists.jpeg"
 image_back: "/uploads/utopia-for-realists2.jpeg"
-published: false
 
 ---
 "We live in a time of unprecedented upheaval, with questions about the future, society, work, happiness, family and money, and yet no political party of the right or left is providing us with answers. Rutger Bregman, a bestselling Dutch historian, explains that it needn't be this way.  

@@ -5,7 +5,6 @@ subtitle: ''
 author: Reni Eddo-Lodge
 image: "/uploads/why-i-am-no-longer-talking-to-white-people-aboout-race.jpeg"
 image_back: "/uploads/why-i-am-no-longer-talking-to-white-people-aboout-race2.jpeg"
-published: false
 
 ---
 'Every voice raised against racism chips away at its power. We can't afford to stay silent. This book is an attempt to speak'  
