@@ -5,7 +5,6 @@ subtitle: A Guide to Capitalism, Nature, and the Future of the Planet
 author: Raj Patel and Jason W. Moore
 image: "/uploads/history-of-the-world-in-7-cheap-things.jpeg"
 image_back: "/uploads/history-of-the-world-in-7-cheap-things2.jpeg"
-published: false
 
 ---
 Nature, money, work, care, food, energy, and lives: these are the seven things that have made our world and will shape its future. In making these things cheap, modern commerce has transformed, governed, and devastated Earth.  
