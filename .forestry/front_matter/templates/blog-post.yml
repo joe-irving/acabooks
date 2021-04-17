@@ -10,7 +10,7 @@ fields:
 - type: text
   name: excerpt
   label: Excerpt
-  description: Shown on the <a href="/blogs" title="" target="_blank">blogs page</a>
+  description: Shown on the <a href="/blog" title="" target="_blank">blogs page</a>
 - type: text
   name: title
   label: Title
