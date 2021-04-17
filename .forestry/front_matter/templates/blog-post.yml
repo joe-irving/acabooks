@@ -18,5 +18,3 @@ fields:
   name: subtitle
   label: Subtitle
   description: If relevant
-pages:
-- _posts/test.md
