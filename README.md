@@ -38,7 +38,7 @@
 To access data from here use [Liquid tags](https://shopify.github.io/liquid/). For example, to use the description:
 
 ```yml
-{{ site.description }}
+&lbrace;&lbrace; site.description &rbrace;&rbrace;
 ```
 
 ### Navigation bar
