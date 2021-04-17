@@ -1,6 +1,9 @@
 ---
 layout: post
 ---
+{% if page.taken %}
+  <p class="warn">This book is being read, or we forgot to change this message</p>
+{% endif  %}
 <img class="book cover" src="{{ page.image | relative_url }}" alt="Image: front cover of {{ page.title }}"">
 {{ content }}
 <img class="book cover" src="{{ page.image_back | relative_url }}" alt="Image: back cover of {{ page.title }}"">
