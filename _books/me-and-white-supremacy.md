@@ -5,7 +5,6 @@ subtitle: How to Recognise your Privilege , Combat Racism and Change the World
 author: Layla F. Saad
 image: "/uploads/me-and-white-supremicy.jpeg"
 image_back: "/uploads/me-and-white-supremicy2.jpeg"
-published: false
 
 ---
 When Layla F. Saad began  
