@@ -2,7 +2,7 @@
 layout: post
 title: Futures of Socialism
 excerpt: ''
-image: ''
+image: "/uploads/futures-of-socialism.jpeg"
 author: ''
 subtitle: The Pandemic and the Post-Corbyn Era How should the left respond to electoral
   defeat, the leadership of Keir Starmer and a global crisis?
