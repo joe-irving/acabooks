@@ -5,7 +5,6 @@ subtitle: ''
 author: Naomi Klein
 image: "/uploads/this-changes-everything.jpeg"
 image_back: "/uploads/this-changes-everything2.jpeg"
-published: false
 
 ---
 "The most important book yet from the author of the international bestseller The Shock Doctrine, a brilliant explanation of why the climate crisis challenges us to abandon the core “free market” ideology of our time, restructure the global economy, and remake our political systems.  
