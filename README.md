@@ -35,11 +35,6 @@
 * Change the setting there
 * Avoid editing anything past and including **Repositry** unless you know what you are doing.
 
-To access data from here use [Liquid tags](https://shopify.github.io/liquid/). For example, to use the description:
-
-```yml
-&lbrace;&lbrace; site.description &rbrace;&rbrace;
-```
 
 ### Navigation bar
 
