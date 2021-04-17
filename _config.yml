@@ -2,22 +2,13 @@
 title: ACA Books
 tagline: York's Radical Library
 description: "Anarcho Cosmic Activist Books, created in April 2021,\nis York’s new
-  radical library: grass-roots group sharing knowledge and ideas\nthrough books. "
+  radical library: a grass-roots group sharing knowledge and ideas\nthrough books. "
 instagram: aca.books
 email: acabooks@bicycle.ga
-twitter:
-facebook:
-telegram:
+twitter: 
+facebook: 
+telegram: 
 url: http://acabooks.org.uk
-socials:
-  name: ACA Books
-  links:
-  - https://www.instagram.com/aca.books/
-defaults:
-- scope:
-    path: ''
-  values:
-    image: "/uploads/acabooksall.png"
 repository: joe-irving/acabooks
 permalink: "/:categories/:year/:title/"
 collections:
@@ -30,6 +21,10 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-sitemap
+socials:
+  name: ACA Books
+  links:
+  - https://www.instagram.com/aca.books/
 locale: en_GB
 defaults:
 - scope:
