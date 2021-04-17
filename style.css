@@ -111,6 +111,7 @@ section.book > div.text{
   flex-direction: column;
   justify-content: space-around;
   background-color: rgba(255, 255, 255, 0.9);
+  padding: 1vw;
 }
 section.book .text > *{
   text-align: center;
@@ -122,4 +123,31 @@ a.book{
 }
 a.book *:not(h1,h2,h3,h4,h5,h6){
   text-shadow: none;
+}
+@media only screen and (min-width: 1050px){
+  section.book, div.text{
+    position: relative;
+  }
+  section.book > div.text{
+    background: none;
+  }
+  a.book:nth-child(odd) > section.book{
+    left:50%;
+  }
+  a.book:nth-child(odd) > section.book > div.text{
+    right: 100%;
+  }
+  a.book:nth-child(odd) > section.book > div.text > *{
+    text-align:right;
+  }
+  a.book:nth-child(even) > section.book{
+    right:50%;
+  }
+  a.book:nth-child(even) > section.book > div.text{
+    left: 100%;
+
+  }
+  a.book:nth-child(even) > section.book > div.text > *{
+    text-align:left;
+  }
 }
