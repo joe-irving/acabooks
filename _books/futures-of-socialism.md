@@ -6,7 +6,7 @@ image: "/uploads/futures-of-socialism.jpeg"
 author: ''
 subtitle: The Pandemic and the Post-Corbyn Era How should the left respond to electoral
   defeat, the leadership of Keir Starmer and a global crisis?
-image_back: ''
+image_back: "/uploads/futures-of-socialism2.jpeg"
 
 ---
 In Futures of Socialism, Sam Gindin and James Meadway reassess socialist strategy after the coronavirus; Dalia Gebrial and Siân Errington debate austerity and precarity; Joshua Virasami and Simukai Chigudu explore anti-racism and the legacy of Empire; and Leo Panitch and Momentum co-founder James Schneider probe the limits of parliamentary socialism. Chris Saltmarsh assesses the prospects for an eco-socialist Green New Deal and Cat Hobbs argues for the ongoing centrality of public ownership to socialist policy.
