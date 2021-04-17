@@ -9,6 +9,15 @@ twitter:
 facebook:
 telegram:
 url: http://acabooks.org.uk
+socials:
+  name: ACA Books
+  links:
+  - https://www.instagram.com/aca.books/
+defaults:
+- scope:
+    path: ''
+  values:
+    image: "/uploads/acabooksall.png"
 repository: joe-irving/acabooks
 permalink: "/:categories/:year/:title/"
 collections:
@@ -21,10 +30,6 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-sitemap
-socials:
-  name: ACA Books
-  links:
-  - https://www.instagram.com/aca.books/
 locale: en_GB
 defaults:
 - scope:
