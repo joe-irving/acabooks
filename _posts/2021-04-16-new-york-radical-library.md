@@ -3,9 +3,11 @@ layout: post
 excerpt: >-
   Welcome to ACA Books new website! Where you can find books, and
   do blog posts like this
-title: Brand New Website!
+title: York's New Radical Library
 subtitle: For ACA Books - York's New Radical Library
 ---
+
+{{ site.description }}
 
 Welcome, currently we operate out of an [Instagram page](https://instagram.com/{{site.instagram}}) - so check it out.
 

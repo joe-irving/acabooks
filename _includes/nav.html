@@ -1,6 +1,6 @@
-<ul>
+<nav>
   {% for item in site.data.nav %}
-    <li><a href="{{ item.link | relative_url }}" {% if page.url == item.link %} class="current-page" {% endif %}>
+  <a href="{{ item.link | relative_url }}" {% if page.url == item.link %} class="current-page" {% endif %}>
       {{ item.name }}</a>
       {% if item.pages %}
         <ul class="sub-menu">
@@ -9,6 +9,5 @@
           {% endfor %}
         </ul>
       {% endif %}
-    </li>
   {% endfor %}
-</ul>
+</nav>

@@ -1,8 +1,11 @@
 title: ACA Books
 tagline: York Radical Library
-description: York Radical Library
+description: |-
+  York’s New Radical Library, created in April 2021,
+  is a grass-roots group sharing knowledge and ideas
+  through books.
 instagram: aca.books
-# email:
+# email: acabooks@bicycle.ga
 # twitter:
 # facebook:
 # telegram:
@@ -22,6 +25,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+
+socials:
+  name: ACA Books
+  links:
+    - https://www.instagram.com/aca.books/
 
 locale: en_GB
 defaults:

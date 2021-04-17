@@ -1,4 +1,6 @@
 - name: Home
   link: /
+- name: Books
+  link: /books/ 
 - name: Blog
   link: /blog/
