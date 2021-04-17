@@ -7,6 +7,11 @@ fields:
   label: layout
   hidden: true
   default: post
+- name: taken
+  type: boolean
+  label: Taken
+  default: false
+  description: Has someone taken this book out?
 - type: text
   name: title
   label: title
@@ -31,11 +36,6 @@ fields:
     maxSize: 64
   label: Back Image
   description: The back cover of the book
-- name: taken
-  type: boolean
-  label: Taken
-  default: false
-  description: Has someone taken this book out?
 pages:
 - _books/a-history-of-the-world-in-seven-cheap-things.md
 - _books/back-to-black.md
