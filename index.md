@@ -5,6 +5,8 @@ layout: page
 
 # York's Radical Library
 
+{% include sm-logos.html %}
+
 ## About
 
 York's New Radical Library, created in April 2021, is a grass-roots group

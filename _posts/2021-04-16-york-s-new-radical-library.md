@@ -4,7 +4,7 @@ excerpt: >-
   Welcome to ACA Books new website! Where you can find books, and
   do blog posts like this
 title: York's New Radical Library
-subtitle: For ACA Books - York's New Radical Library
+subtitle: Anarcho Cosmic Books - York's New Radical Library
 ---
 
 {{ site.description }}
