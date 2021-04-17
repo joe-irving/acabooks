@@ -10,8 +10,19 @@ layout: page
   </p>
   <p><em>{{ page.date | date_to_string }}</em></p>
 <span class="share">
-  <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}"><img class="icon" src="{{'/logos/facebook.svg'|relative_url}}" title="Facebook" alt="Share to Facebook"></a>
-  <a target="_blank" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}"><img class="icon" src="{{'/logos/twitter.svg'|relative_url}}" title="Twitter" alt="Share on Twitter"></a>
+  <a
+  target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url | relative_url}}"
+  >
+  <img
+  class="icon"
+  src="{{'/logos/facebook.svg'|relative_url}}"
+  title="Facebook" alt="Share to Facebook">
+  </a>
+  <a
+  target="_blank"
+  href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url | relative_url}}?text={{ 'Check out ' | url_encode }}{{ page.title | url_encode }}+from+{{ site.title | url_encode }}+-+{{ site.tagline | url_encode }}">
+    <img class="icon" src="{{'/logos/twitter.svg'|relative_url}}" title="Twitter" alt="Share on Twitter">
+  </a>
 </span>
 </section>
 {{ content }}

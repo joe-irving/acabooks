@@ -3,7 +3,7 @@ layout: post
 title: Example Book
 excerpt: ''
 image: "/uploads/default.jpeg"
-
+published: false
 ---
 # Details
 
