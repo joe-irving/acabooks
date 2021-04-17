@@ -22,11 +22,9 @@ sections:
 - type: document
   path: _config.yml
   label: Config
-  match: "**/*"
 - type: document
   path: _data/nav.yml
   label: Navigation bar
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
