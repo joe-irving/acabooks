@@ -9,8 +9,9 @@ layout: page
 
 ## About
 
-York's New Radical Library, created in April 2021, is a grass-roots group
-sharing knowledge and ideas through books. See our [Instagram page][insta]
+{{ site.description }}
+
+See our [Instagram page][insta]
 for the most up to date list.
 
 ## Joining us
