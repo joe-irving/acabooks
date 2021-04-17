@@ -5,7 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
-  hidden: false
+  hidden: true
   default: post
 - type: text
   name: title
@@ -31,6 +31,11 @@ fields:
     maxSize: 64
   label: Back Image
   description: The back cover of the book
+- name: available
+  type: boolean
+  label: Available
+  description: Is this book available, i.e not being used by someone
+  default: true
 pages:
 - _books/a-history-of-the-world-in-seven-cheap-things.md
 - _books/back-to-black.md
