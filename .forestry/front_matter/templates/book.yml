@@ -5,7 +5,7 @@ fields:
 - type: text
   name: layout
   label: layout
-  hidden: false
+  hidden: true
   default: post
 - type: text
   name: title
@@ -23,12 +23,19 @@ fields:
 - type: file
   name: image
   label: image
+  description: If the image is 1200x627 px then it will show up in most previews (e.g.
+    on sharing to facebook)
 - name: image_back
   type: file
   config:
     maxSize: 64
   label: Back Image
   description: The back cover of the book
+- name: available
+  type: boolean
+  label: Available
+  description: Is this book available, i.e not being used by someone
+  default: true
 pages:
 - _books/a-history-of-the-world-in-seven-cheap-things.md
 - _books/back-to-black.md
@@ -38,6 +45,7 @@ pages:
 - _books/climate-crisis-and-the-global-green-new-deal.md
 - _books/economics-after-capitalism.md
 - _books/ethical-vegan.md
+- _books/feral.md
 - _books/fully-automated-luxury-communism.md
 - _books/futures-of-socialism.md
 - _books/hope-in-the-dark.md
@@ -45,6 +53,7 @@ pages:
 - _books/no-borders.md
 - _books/on-fire.md
 - _books/seventeen-contradictions-and-the-end-of-capitalism.md
+- _books/the-conservation-revolution.md
 - _books/the-old-is-dying-and-the-new-cannot-be-born.md
 - _books/this-changes-everything.md
 - _books/utopia-for-realists.md
