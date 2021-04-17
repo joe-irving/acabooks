@@ -5,7 +5,6 @@ subtitle: The Burning Case For a Green New Deal
 author: Noami Klein
 image: "/uploads/on-fire.jpeg"
 image_back: "/uploads/on-fire-2.jpeg"
-published: false
 
 ---
 'Naomi Klein's work has always moved and guided me. She is the great chronicler of our age of climate emergency, an inspirer of generations' - Greta Thunberg  
