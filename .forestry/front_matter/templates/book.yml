@@ -31,6 +31,7 @@ fields:
   description: The back cover of the book
 pages:
 - _books/bigger-than-bernie.md
+- _books/economics-after-capitalism.md
 - _books/fully-automated-luxury-communism.md
 - _books/futures-of-socialism.md
 - _books/seventeen-contradictions-and-the-end-of-capitalism.md
