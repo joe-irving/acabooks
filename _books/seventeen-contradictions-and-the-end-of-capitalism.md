@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Seventeen Contradictions and the End of Capitalism
 subtitle: Can capitialism survive in the face of crisis?
 author: David Harvey

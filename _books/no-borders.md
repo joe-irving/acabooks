@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: No Borders
 subtitle: The Politics of Immigration Control and Resistance
 author: Natasha King

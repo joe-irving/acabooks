@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Back to Black
 subtitle: Black Radicalism For the 21st Century
 author: Kehinde Andrews

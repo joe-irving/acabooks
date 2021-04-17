@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Utopia For Realists
 subtitle: and How We Can Get There
 author: Rutger Bregman

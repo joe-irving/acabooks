@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Example Book
 excerpt: ''
 image: "/uploads/default.jpeg"

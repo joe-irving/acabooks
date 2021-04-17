@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: On Fire
 subtitle: The Burning Case For a Green New Deal
 author: Noami Klein

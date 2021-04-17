@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Ethical Vegan
 subtitle: A Personal and Political Journey to Change the World
 author: Jordi Casamitjana

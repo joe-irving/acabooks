@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: This Changes Everything
 subtitle: ''
 author: Naomi Klein

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Climate Crisis and the Global Green New Deal
 subtitle: ''
 author: Noam Chomsky and Robert Pollin

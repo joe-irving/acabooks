@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Hope in the Dark
 subtitle: Untold Histories, Wild Possibilities
 author: ''

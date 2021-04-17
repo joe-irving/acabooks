@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Futures of Socialism
 excerpt: ''
 image: "/uploads/futures-of-socialism.jpeg"

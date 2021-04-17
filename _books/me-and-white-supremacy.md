@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Me and White Supremacy
 subtitle: How to Recognise your Privilege , Combat Racism and Change the World
 author: Layla F. Saad

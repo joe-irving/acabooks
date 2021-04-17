@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: The Old is Dying and the New Cannot Be Born
 subtitle: ''
 author: Nancy Fraser

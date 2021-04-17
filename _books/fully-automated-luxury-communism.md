@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Fully Automated Luxury Communism
 excerpt: ''
 image: "/uploads/biggerthanbernie.jpeg"

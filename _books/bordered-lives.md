@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: 'Bordered Lives '
 subtitle: " How Europe Fails Refugees and Migrants"
 author: Hsiao-Hung Pai

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Why I'm No Longer Talking to White People About Race
 subtitle: ''
 author: Reni Eddo-Lodge

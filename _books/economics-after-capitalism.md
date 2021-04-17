@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Economics After Capitalism
 subtitle: " A guide to the Ruins and a Road to the Future"
 author: Derek Wall

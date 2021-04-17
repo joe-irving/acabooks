@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: Citizens of Nowhere
 subtitle: " How Europe Can Be Saved From Itself"
 author: Lorenzo Marsili and Miccolo Milanese
