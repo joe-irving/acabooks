@@ -20,7 +20,7 @@ layout: page
   </a>
   <a
   target="_blank"
-  href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url | relative_url}}?text={{ 'Check out ' | url_encode }}{{ page.title | url_encode }}+from+{{ site.title | url_encode }}+-+{{ site.tagline | url_encode }}">
+  href="https://twitter.com/intent/tweet?text={{ 'Check out ' | url_encode }}{{ page.title | url_encode }}+from+{{ site.title | url_encode }}+-+{{ site.tagline | url_encode }}++{{ site.url | url_encode }}{{ page.url | relative_url | url_encode}}">
     <img class="icon" src="{{'/logos/twitter.svg'|relative_url}}" title="Twitter" alt="Share on Twitter">
   </a>
 </span>
