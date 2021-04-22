@@ -21,6 +21,9 @@
   --red: red;
   --green: green;
 }
+.hide{
+  display: none;
+}
 nav{
   display: flex;
   justify-content: space-around;
@@ -163,4 +166,7 @@ a.book *:not(h1,h2,h3,h4,h5,h6){
 /* footer */
 div.social{
   text-align: center;
+}
+div.social p#text{
+  margin: auto 0;
 }

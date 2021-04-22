@@ -1,0 +1,1 @@
+https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business={{ site.email }}&lc=US&item_name={{ 'Donate £5 to join York's Radical Library - ACA Books' | url_encode }}&no_note=0&cn=&currency_code=GBP&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted
