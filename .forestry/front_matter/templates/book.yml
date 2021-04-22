@@ -38,6 +38,7 @@ fields:
   description: The back cover of the book
 pages:
 - _books/a-history-of-the-world-in-seven-cheap-things.md
+- _books/american-antifa.md
 - _books/back-to-black.md
 - _books/bigger-than-bernie.md
 - _books/bordered-lives.md
@@ -52,6 +53,7 @@ pages:
 - _books/me-and-white-supremacy.md
 - _books/no-borders.md
 - _books/on-fire.md
+- _books/selling-olga.md
 - _books/seventeen-contradictions-and-the-end-of-capitalism.md
 - _books/the-conservation-revolution.md
 - _books/the-old-is-dying-and-the-new-cannot-be-born.md
