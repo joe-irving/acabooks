@@ -15,3 +15,16 @@ fields:
     required: false
   label: URL
   description: The URL this page will direct to.
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  description: The title of this page when shared on social media
+  default: ACA Books is redirecting you
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+  default: "/uploads/acabooksall.png"
