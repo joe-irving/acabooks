@@ -32,3 +32,5 @@ before you collect them.
 ## Books
 
 We are adding books from our collection daily, see our list on the [books page](/books).
+
+[donate]: {% include donate %}
