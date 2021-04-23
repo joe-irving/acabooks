@@ -34,3 +34,4 @@ before you collect them.
 We are adding books from our collection daily, see our list on the [books page](/books).
 
 [donate]: {% include donate %}
+[insta]: https://instagram.com/{{ site.instagram }}
