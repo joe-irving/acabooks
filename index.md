@@ -19,4 +19,4 @@ Donate a book, or pay £5 to join! Simple as.
 
 ## Books
 
-We are adding books from our collection daily, see our list on the \[books page\](/books)
+We are adding books from our collection daily, see our list on the [books page](/books).
