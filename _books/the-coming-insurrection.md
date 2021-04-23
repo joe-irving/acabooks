@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 taken: false
 title: The Coming Insurrection
 subtitle: ''

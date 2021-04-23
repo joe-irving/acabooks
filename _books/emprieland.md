@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 taken: false
 title: Emprieland
 subtitle: How Imperialism has Shaped Modern Britain

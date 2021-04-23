@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 taken: false
 title: Sapiens
 subtitle: A Breif History of Humankind

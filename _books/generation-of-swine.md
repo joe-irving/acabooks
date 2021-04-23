@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 taken: false
 title: Generation of Swine
 subtitle: Tales of Shame and Degredation in the '80s

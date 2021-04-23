@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 title: The Conservation Revolution
 subtitle: Radical Ideas for Saving Nature Beyond the Anthopocene
 author: Bram Büscher and Robert Fletcher

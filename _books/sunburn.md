@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 taken: false
 title: Sunburn
 subtitle: The unofficial history of the Sun newpaper in 99 headlines

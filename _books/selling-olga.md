@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 taken: false
 title: Selling Olga
 subtitle: Stories of human trafficking and resistance

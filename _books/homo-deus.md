@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 taken: false
 title: Homo Deus
 subtitle: A Breif History of Tomorrow

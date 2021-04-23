@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 taken: false
 title: American Antifa
 subtitle: The tactics, culture, and practice of militant antifascism

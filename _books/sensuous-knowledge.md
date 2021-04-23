@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 taken: false
 title: Sensuous Knowledge
 subtitle: A Black Feminist Approach for Everyone

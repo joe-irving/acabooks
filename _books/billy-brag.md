@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: book
 taken: false
 title: Billy Brag
 subtitle: Still Suitable for Miners
