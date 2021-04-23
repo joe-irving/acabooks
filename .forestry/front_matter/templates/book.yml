@@ -37,6 +37,7 @@ fields:
   label: Back Image
   description: The back cover of the book
 pages:
+- _books/a-beginners-guide-to-meditation.md
 - _books/a-history-of-the-world-in-seven-cheap-things.md
 - _books/american-antifa.md
 - _books/anthropology-ecology-and-anarchy.md
@@ -59,6 +60,7 @@ pages:
 - _books/me-and-white-supremacy.md
 - _books/no-borders.md
 - _books/on-fire.md
+- _books/overcoming-burnout.md
 - _books/recovery.md
 - _books/sapiens.md
 - _books/selling-olga.md
@@ -68,6 +70,7 @@ pages:
 - _books/the-city-always-wins.md
 - _books/the-coming-insurrection.md
 - _books/the-conservation-revolution.md
+- _books/the-empire-at-home.md
 - _books/the-good-univeristy.md
 - _books/the-great-gatsby.md
 - _books/the-old-is-dying-and-the-new-cannot-be-born.md
