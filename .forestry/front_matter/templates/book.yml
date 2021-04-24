@@ -36,6 +36,10 @@ fields:
     maxSize: 64
   label: Back Image
   description: The back cover of the book
+- name: tags
+  type: tag_list
+  default: []
+  label: Categories
 pages:
 - _books/a-beginners-guide-to-meditation.md
 - _books/a-climate-change-companion.md
