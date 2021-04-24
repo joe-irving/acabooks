@@ -12,7 +12,7 @@ fields:
 - name: redirect
   type: text
   config:
-    required: false
+    required: true
   label: Redirect URL
   description: The URL this page will direct to.
 - name: title
@@ -31,7 +31,7 @@ fields:
 - name: permalink
   type: text
   config:
-    required: false
+    required: true
   label: Site URL slug
   description: The "slug" that is added to the site domain. e.g if you put "donate"
     here the page http://acabooks.org.uk/donate would redirect to the redirect URL
