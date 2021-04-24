@@ -3,7 +3,7 @@
   <a href="https://www.facebook.com/{{ site.facebook }}">
     <p>
       <img class="icon" src="{{'/logos/facebook.svg'|relative_url}}" title="Facebook" alt="Facebook page">
-      Facebook
+      Facebook page: {{ site.facebook }}
     </p>
   </a>
   {% endif %}
@@ -11,7 +11,7 @@
   <a href="https://instagram.com/{{ site.instagram }}">
     <p>
       <img class="icon" src="{{'/logos/instagram.svg'|relative_url}}" alt="Instagram page" title="Instagram">
-      Instagram
+      @{{ site.instagram }}
     </p>
   </a>
   {% endif %}
@@ -19,7 +19,7 @@
   <a href="https://t.me/{{site.telegram}}">
     <p>
       <img class="icon" src="{{'/logos/telegram.svg'|relative_url}}" alt="Telegram broadcast" title="Telegram">
-      Telegram
+      Telegram Channel
     </p>
   </a>
   {% endif %}
@@ -27,7 +27,7 @@
   <a href="mailto:{{ site.email }}">
     <p>
       <img class="icon" src="{{'/logos/email_icon.svg' | relative_url}}" alt="Send email to {{ site.email }}" title="Email">
-      Email
+      {{ site.email }}
     </p>
   </a>
   {% endif %}
@@ -35,7 +35,7 @@
   <a href="https://twitter.com/{{ site.twitter }}">
     <p>
       <img class="icon" src="{{'/logos/twitter.svg' | relative_url }}" alt="Twitter for {{ site.title }}" title="Twitter">
-      Telegram
+      @{{ site.twitter }}
     </p>
   </a>
   {% endif %}
