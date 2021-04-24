@@ -38,6 +38,7 @@ fields:
   description: The back cover of the book
 pages:
 - _books/a-beginners-guide-to-meditation.md
+- _books/a-climate-change-companion.md
 - _books/a-history-of-the-world-in-seven-cheap-things.md
 - _books/american-antifa.md
 - _books/anstronomy-photographer-of-the-year-2013.md
@@ -57,6 +58,7 @@ pages:
 - _books/fully-automated-luxury-communism.md
 - _books/futures-of-socialism.md
 - _books/generation-of-swine.md
+- _books/home-carpentary.md
 - _books/homo-deus.md
 - _books/hope-in-the-dark.md
 - _books/how-to-go-clutter-free.md
