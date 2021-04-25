@@ -6,6 +6,6 @@ subtitle: ''
 author: ''
 image: "/uploads/IMG_3932.jpeg"
 image_back: "/uploads/IMG_3933.jpeg"
-published: false
+tags: []
 
 ---
