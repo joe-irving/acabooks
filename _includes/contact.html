@@ -1,5 +1,5 @@
 <div class="contacts">
-  {% if site.facebook %}
+  {% if site.facebook != '' %}
   <a href="https://www.facebook.com/{{ site.facebook }}">
     <p>
       <img class="icon" src="{{'/logos/facebook.svg'|relative_url}}" title="Facebook" alt="Facebook page">
@@ -7,7 +7,7 @@
     </p>
   </a>
   {% endif %}
-  {% if site.instagram %}
+  {% if site.instagram  != '' %}
   <a href="https://instagram.com/{{ site.instagram }}">
     <p>
       <img class="icon" src="{{'/logos/instagram.svg'|relative_url}}" alt="Instagram page" title="Instagram">
@@ -15,7 +15,7 @@
     </p>
   </a>
   {% endif %}
-  {% if site.telegram %}
+  {% if site.telegram  != '' %}
   <a href="https://t.me/{{site.telegram}}">
     <p>
       <img class="icon" src="{{'/logos/telegram.svg'|relative_url}}" alt="Telegram broadcast" title="Telegram">
@@ -23,7 +23,7 @@
     </p>
   </a>
   {% endif %}
-  {% if site.email %}
+  {% if site.email  != '' %}
   <a href="mailto:{{ site.email }}">
     <p>
       <img class="icon" src="{{'/logos/email_icon.svg' | relative_url}}" alt="Send email to {{ site.email }}" title="Email">
@@ -31,7 +31,7 @@
     </p>
   </a>
   {% endif %}
-  {% if site.twitter %}
+  {% if site.twitter   != '' %}
   <a href="https://twitter.com/{{ site.twitter }}">
     <p>
       <img class="icon" src="{{'/logos/twitter.svg' | relative_url }}" alt="Twitter for {{ site.title }}" title="Twitter">
