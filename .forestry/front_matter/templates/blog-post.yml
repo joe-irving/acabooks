@@ -24,3 +24,16 @@ fields:
     maxSize: 64
   label: Image
   description: For social media previews. 1200x627px is best
+- name: book
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: books-aa77876e-9a60-4af9-b824-d5c5696c258d
+      file: 
+      path: 
+  label: Book
+  description: What, if any, book is the post about?
