@@ -5,9 +5,9 @@ description: "Anarcho Cosmic Activist Books, created in April 2021,\nis York’s
   radical library: a grass-roots group sharing knowledge and ideas\nthrough books. "
 instagram: aca.books
 email: acabooksyork@gmail.com
-twitter:
-facebook:
-telegram:
+twitter: ''
+facebook: ''
+telegram: ''
 url: http://acabooks.org.uk
 repository: joe-irving/acabooks
 permalink: "/:categories/:year/:title/"
