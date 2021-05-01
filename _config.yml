@@ -8,7 +8,7 @@ email: acabooksyork@gmail.com
 twitter: ''
 facebook: ''
 telegram: ''
-url: http://acabooks.org.uk
+url: https://acabooks.org.uk
 repository: joe-irving/acabooks
 permalink: "/:categories/:year/:title/"
 collections:
