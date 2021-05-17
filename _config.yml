@@ -21,6 +21,26 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-sitemap
+- jekyll-paginate-v2
+pagination:
+  enabled: true
+  permalink: /:num/
+  per_page: 10
+  collection: books
+csv:
+  books:
+    source: https://docs.google.com/spreadsheets/d/1ZwmcMVbU6dLMX06iufNnOLyNSGpZdLrsDbzNtnnaUVY/gviz/tq?tqx=out:csv&sheet=Books
+
+autopages:
+  enabled: true
+  tags:
+    layouts:
+      - books-page.html
+    title: ':tag'
+  collections:
+    enabled: false
+  categories:
+    enabled: false
 socials:
   name: ACA Books
   links:
