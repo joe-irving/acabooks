@@ -11,6 +11,7 @@ telegram: ''
 url: https://acabooks.org.uk
 repository: joe-irving/acabooks
 permalink: "/:categories/:year/:title/"
+theme: minima
 collections:
   books:
     output: true
