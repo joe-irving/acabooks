@@ -14,12 +14,13 @@ pagination:
     before: 2 # The number of links before the current page
     after: 2  # The number of links after the current page
 ---
-{% for my_page in site.pages %}
-{{ page.data }}
-  {% if my_page.title and my_page.autogen == nil and my_page.autopage != nil %}
-    <a class="page-link" href="{{ my_page.url | relative_url | remove: "index.html" }}">{{ my_page.title | escape | capitalize }}</a> |
-  {% endif %}
-{% endfor %}
+<section class="Library-Tag-Selector">
+  {% for my_page in site.pages %}
+    {% if my_page.title and my_page.autogen == nil and my_page.autopage != nil %}
+      <a class="page-link" href="{{ my_page.url | relative_url | remove: "index.html" }}">{{ my_page.title | escape | capitalize }}</a> |
+    {% endif %}
+  {% endfor %}
+</section>
 
 {{ content | markdownify  }}
 <section class="books">
