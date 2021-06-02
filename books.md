@@ -1,8 +1,4 @@
 ---
-layout: page
+layout: books-page
 title: Books
----
-
-# Our Books
-
-{% include books.html %}
+--- 
