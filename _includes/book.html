@@ -1,0 +1,16 @@
+{% if include.book %}
+{% assign book = include.book %}
+{% elsif include.title and include.url %}
+{% assign book = include %}
+{% endif %}
+
+<section class="book {% for tag in book.tags %}{{ tag }}{% endfor%}">
+  <!-- <img src="{{ book.image }}"> -->
+  <div class="text">
+    <h2><a href="{{ book.url | relative_url }}">{{ book.title }}</a></h2>
+    {% if book.author %}
+    <p><em>{{ book.author }}</em></p>
+    {% endif %}
+    <p><strong>{{ book.subtitle }}</strong></p>
+  </div>
+</section>

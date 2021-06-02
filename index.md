@@ -4,7 +4,7 @@ layout: page
 ---
 # York's Radical Library
 
-{% include contact.html %}
+{% include social.html %}
 
 ## About
 
