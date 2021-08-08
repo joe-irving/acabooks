@@ -3,47 +3,52 @@ title: ACA Books
 tagline: York's Radical Library
 description: "Anarcho Cosmic Activist Books, created in April 2021,\nis York’s new
   radical library: a grass-roots group sharing knowledge and ideas\nthrough books. "
-instagram: aca.books
+instagram: https://www.instagram.com/aca.books/
 email: acabooksyork@gmail.com
-twitter: ''
-facebook: ''
-telegram: ''
+# twitter: ''
+# facebook: ''
+# telegram: ''
 url: https://acabooks.org.uk
 repository: joe-irving/acabooks
 permalink: "/:categories/:year/:title/"
+
+theme: jekyll-rebellion
+bold_font: Stencilia-A
+font: Raleway
+donate: "https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=acabooksyork@gmail.com&lc=US&item_name=Donate+%C2%A35+to+join+York&no_note=0&cn=&currency_code=GBP&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted"
+
+# Rebellion Config
+#logo: /assets/logo-black.svg
+#logo_square: /assets/logo-square.svg
+#logo_light: /assets/logo-white.svg
+# facebook: \#
+# twitter: \#
+# instagram: \#
+# copyright_notice: Add an additional copyright notice here. With **bold** and [link](https://example.com) formatting.
+# donate: /donate/
+# join_us: /join-us/
+# $xr-green, $xr-yellow, $xr-light-blue, $xr-pink, $xr-purple, $xr-dark-blue $xr-light-blue, xr-light-green, $xr-pastel-yellow
+brand_color: red
+accent_color: black
+# Stencilia-A, Stencilia-Bold, FucXed (default), ReggaeOne, SairaStencilOne, MajorMonoDisplay, Raleway, Raleway-Bold
+invert_brand_text: true
+invert_accent_text: true
+# theme_tiny: 250
+# theme_small: 425
+# theme_medium: 570
+# theme_large: 770
+
 header_pages:
   - books.md
   - blog.md
 collections:
-  books:
-    output: true
-    permalink: "/:collection/:title"
   posts:
     permalink: "/blog/:year/:title"
 plugins:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-sitemap
-- jekyll-paginate-v2
-pagination:
-  enabled: true
-  permalink: /:num/
-  per_page: 10
-  collection: books
-csv:
-  books:
-    source: https://docs.google.com/spreadsheets/d/1ZwmcMVbU6dLMX06iufNnOLyNSGpZdLrsDbzNtnnaUVY/gviz/tq?tqx=out:csv&sheet=Books
 
-autopages:
-  enabled: true
-  tags:
-    layouts:
-      - books-page.html
-    title: ':tag'
-  collections:
-    enabled: false
-  categories:
-    enabled: false
 socials:
   name: ACA Books
   links:
