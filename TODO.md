@@ -5,7 +5,7 @@ layout: page
 
 ## Functionality
 
-- [ ] Search bar
+- [x] Search bar
 - [ ] Filter by tags
 
 ## Prettiness
