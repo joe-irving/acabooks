@@ -2,15 +2,14 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $border-color-03;
-  border-bottom: 1px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
+
+  background: linear-gradient($accent-color-dark, $accent-color, $accent-color-dark);
 
   // Positioning context for the mobile navigation icon
   position: relative;
 }
-
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
@@ -117,6 +116,49 @@
 }
 
 
+/**
+ * Blocks
+ */
+
+.Full-Page-Image-Block{
+  background: $accent-color no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 90vh;
+  > h1 {
+    text-align: center;
+    color: $background-color;
+  }
+  > .flex-line {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    position: absolute;
+    bottom: $spacing-unit * 2;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+/**
+  * Input
+  */
+.button, button, input[type="button"]{
+  border: 0;
+  padding: $spacing-unit * 0.4 $spacing-unit * 0.2;
+  background-color: $accent-color;
+  color: $background-color;
+  &:hover{
+    background-color: $accent-color-dark;
+    color:  $background-color;
+  }
+  &:visited{
+    background-color: $accent-color;
+    color:  $background-color;
+  }
+}
 
 /**
  * Site footer

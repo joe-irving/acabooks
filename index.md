@@ -1,8 +1,13 @@
 ---
-layout: page
-
+layout: home
+top:
+  text: York's Radical Library
+  image: /uploads/acabooksall.jpeg
+  button:
+    target: "#about"
+    text: Find out more
 ---
-# York's Radical Library
+
 
 {% include social.html %}
 

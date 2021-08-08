@@ -17,6 +17,11 @@ const update = () => {
 }
 
 $( document ).ready(function(){
+  $("section.books").show()
+  $("#search-input").keyup(function(){
+    console.log("Key up")
+    console.log(this.val())
+  })
   $(".book-filters").click(function(){
     console.log("clicked")
     update()

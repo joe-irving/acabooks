@@ -6,9 +6,17 @@
   <body>
 
     {%- include header.html -%}
-
+    {% if page.top.image %}
+    <div class="Full-Page-Image-Block {% if page.top.half %}half{% endif %}" style="background-image:url({{ page.top.image | relative_url }})">
+      {% if page.top.text %}<h1>{{ page.top.text }}</h1>{% endif %}
+      {% if page.top.button %}
+        <div class="flex-line">
+           <a class="button" href="{{ page.top.button.target }}">{{ page.top.button.text }}</a>
+        </div>
+      {% endif %}
+    </div>
+    {% endif %}
     <main class="page-content" aria-label="Content">
-
       <div class="wrapper">
 
         {{ content }}
